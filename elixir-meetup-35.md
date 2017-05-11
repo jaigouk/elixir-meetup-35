@@ -9,7 +9,6 @@
 #### 11.05.2017
 
 ---
-![bg](img/blacklane.png)
 
 # Agenda
 
@@ -50,13 +49,6 @@ in elixir, state goes to data(types) and modules are responsible for behaviors. 
 ### Elixir Berlin
 
 I recommended Andrea Amantini's talk. and Daniel's visualization talks to my colleagues.
-
-
-
----
-![bg](img/elixir.jpg)
-
-# Talks I enjoyed
 
 ### "A Practical Guide to Protocols" 
 
@@ -133,4 +125,14 @@ end
 ![bg](img/gaudi.jpg)
 # Gaudi
 ![bsg](img/mirror-2.jpg)
+
+---
+
+![bg](img/blacklane.png)
+
+# What I learned
+
+### 1. Buy tickets 1 day before at least
+### 2. Cross field approach. we can learn from other field. 
+
 
